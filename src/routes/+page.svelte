@@ -6,28 +6,28 @@
 			desc: 'A map of all students currently in Codam',
 			version: '0.2',
 			icon: '🗺️',
-			href: '1'
+			href: '/'
 		},
 		{
 			title: 'Students',
 			desc: 'A list of all students at Codam',
 			version: '0.2',
 			icon: '🎓',
-			href: '2'
+			href: '/'
 		},
 		{
 			title: 'Coalitions',
 			desc: 'Statistics on all coalitions at Codam',
 			version: '0.2',
 			icon: '🪄',
-			href: '2'
+			href: '/'
 		},
 		{
 			title: 'Staff',
 			desc: 'A list of all staff at Codam',
 			version: '0.2',
 			icon: '👨‍🏫',
-			href: '2'
+			href: '/'
 		}
 	];
 </script>
