@@ -7,7 +7,7 @@
 </script>
 
 <a
-	class="relative block rounded-xl border border-gray-100 p-8 shadow-md hover:shadow-md hover:scale-[101%] transition-all duration-400"
+	class="relative block rounded-xl border border-gray-100 p-8 shadow-md hover:shadow-lg hover:scale-[101%] transition-all duration-[400ms]"
 	{href}
 >
 	<span
